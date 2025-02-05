@@ -4,10 +4,10 @@
 Pokedex is a web application developed in collaboration with Natixvi that allows users to explore and learn about various Pokémon. The application utilizes the free PokeAPI to fetch detailed information about each Pokémon, including their abilities, types, and statistics. This project serves as a practical exercise in web development, focusing on integrating external APIs and presenting data in an engaging manner.
 
 ## Table of Contents
-- [Description]
-- [Features]
-- [Technologies]
-- [License]
+- [Description](#description)
+- [Features](#features)
+- [Technologies](#technologies)
+- [License](#license)
 
 ## Features
 - Browse Pokémon: View a comprehensive list of Pokémon with their images and basic information.
