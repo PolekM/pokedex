@@ -1,0 +1,17 @@
+
+::ng-deep .pokeball-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: url('..\\..\\assets\\pokeball.png') no-repeat center center;
+  background-size: contain;
+}
+
+::ng-deep .pi-check, .pi-search{
+  order: 1
+}
+::ng-deep .ml-2 {
+  flex-grow: 1;
+ }
+ 
+ 

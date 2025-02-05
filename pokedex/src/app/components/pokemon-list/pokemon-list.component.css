@@ -1,0 +1,26 @@
+::ng-deep .p-card {
+    height: 250px;
+}
+::ng-deep .p-card img {
+    height: 150px;
+    object-fit: contain;
+}
+
+::ng-deep .p-card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+::ng-deep .p-card:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+    opacity: 0.6;
+  
+}
+
+::ng-deep .p-button{
+    width: 200px
+}
+

@@ -1,0 +1,13 @@
+.container{
+    margin: 10px;
+    padding: 10px;
+}
+
+@media screen and (min-width: 1920px) {
+    .content, app-navbar, app-footer{
+        max-width: 1728px; 
+    }
+}
+
+
+
